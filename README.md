@@ -3,7 +3,7 @@ This repo contain the assignment that is assigned by the SlashByte Studios for a
 # Backend
 I have developed the backend in express
 # FrontEnd
-I have used Material UI for responsiveness
+I have used Material UI for responsiveness and appealing look
 # Picture
 Pictures are attached to see the output of the program
 
